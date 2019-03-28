@@ -27,3 +27,18 @@ ajoute un fichier README.md ainsi qu'un .gitignore pour ne push que les dossiers
 
 Une fois cela fait, je vais mettre le repository à l'aide de l'invite de commande pour
 pouvoir envoyer une première version de mon projet sur github.
+
+Une fois cela fait, je vais commencer à créer mes objets ou classes.
+
+**Création d'une classe pour créer un objet**
+
+(A savoir que l'on crée un classe et que à partir de cette dernière, nous créons plusieurs objets
+qui auront les caractéristiques de cette classe. Il est même possible des créer des sous-classes.)
+
+Il faut aller sur le nom du projet, faire un clique droit et choisir : ajouter, classe...
+et une classe liée à ce projet sera créée.
+
+On va ensuite créer ce qu'il faut dans la classe à l'aide des méthodes get et set et en 
+y ajoutant si c'est public ou private et le style de la classe (string, int,...).
+Le tout se trouve dans le commit nommée "Ma première classe". Je vous laisse aller
+y jetter un oeil. Des commentaires expliques le tout.
