@@ -2,11 +2,11 @@
 
 ## Démarche d'apprentissage
 
-###Problématique
+######Problématique
 
 Utiliser le langage C# orienté objet pour créer des objets.
 
-###Recherches d'informations
+######Recherches d'informations
 
 Premièrement, il faudra aller rechercher des informations sur internet.
 Pour ma part, j'ai choisi 2 sites différents :
@@ -17,7 +17,7 @@ Pour ma part, j'ai choisi 2 sites différents :
 Ayant jetté un rapide coup d'oeil, ils me semblent assez complets.
 (Bien entendu, cette liste n'est pas exhaustive et pourra être complétée selon les besoins)
 
-###Création du projet
+######Création du projet
 
 Ensuite il faut créer le projet. Pour ma part, j'utilise Visual Studio 2017 et je
 crée un projet en mode console où je créerais les différentes classes/objets.
