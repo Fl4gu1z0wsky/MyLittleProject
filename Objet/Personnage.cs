@@ -57,11 +57,17 @@ namespace Objet
             ArmeNom = Nom;
         }
 
+        //Ici la création de cette fonction est obligatoire car
+        //notre variable est en private et donc le get aussi, ce
+        //qui fait qu'elle n'est pas atteignable en dehors de la classe
         public string RetourNomArme()
         {
             return ArmeNom;
         }
 
+        //Par contre ici, la fonction n'est pas obligatoire !
+        //En effet, le get en public, on peut donc reprendre la
+        //fonction en dehors de la classe
         public int RetourDegatsArme()
         {
             return ArmeDegats;
