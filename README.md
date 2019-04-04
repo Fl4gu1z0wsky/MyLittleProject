@@ -59,6 +59,8 @@ fonction permettant de la modifier, comme dans l'initialisation du personnage.
 Il existe néanmoins une troisième fonction qui est protected. Avec celle-ci on a la possiblité
 de modifier la variable dans une autre classe.
 
+**Création d'une seconde Classe**
+
 Créons maintenant une autre classe nommée "Arme". Parce que pour le moment ils utilisent leurs
 poings...
 La classe est crée comme la Personnage et ensuite dans la création d'une classe Personnage j'y
